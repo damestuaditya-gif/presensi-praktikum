@@ -49,13 +49,13 @@ Aplikasi ini dikembangkan sebagai proyek pembelajaran penerapan teknologi blockc
 
 ## Tim Pengembang
 
-Proyek ini dikembangkan secara berkelompok oleh mahasiswa
-Program Studi Teknologi Rekayasa Komputer.
+Proyek ini dikembangkan secara berkelompok oleh mahasiswa Program Studi Teknologi Rekayasa Komputer.
 
 **Anggota Kelompok:**
-1.Aditya Damestu
-2.Althaf Sakha Difa Al Falah
-3.Bhintang Agra
-4.Dimas Abi Destian
-5.Muhammad Akbar Maulana
-6.Paskalis Ardiyanus Tingang
+
+1. Aditya Damestu
+2. Althaf Sakha Difa Al Falah
+3. Bhintang Agra
+4. Dimas Abi Destian
+5. Muhammad Akbar
+6. Paskalis Ardiyanus Tingang
