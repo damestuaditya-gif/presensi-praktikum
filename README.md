@@ -1,13 +1,5 @@
 # Presensi Praktikum
 
-**Sistem Presensi Praktikum Berbasis Blockchain**
-
-## Deskripsi
-
-Presensi Praktikum merupakan aplikasi berbasis Flutter yang memanfaatkan teknologi blockchain untuk melakukan pencatatan kehadiran mahasiswa secara transparan dan terdesentralisasi.
-
-Aplikasi ini menggunakan MetaMask sebagai wallet untuk menghubungkan pengguna dengan jaringan Ethereum Sepolia. Setiap proses pembukaan pertemuan, presensi mahasiswa, dan penutupan pertemuan dilakukan melalui transaksi blockchain.
-
 ## Fitur Aplikasi
 
 ### Dosen
@@ -184,15 +176,3 @@ Proyek ini dikembangkan secara berkelompok oleh mahasiswa Program Studi Teknolog
 4. Dimas Abi Destian
 5. Muhammad Akbar
 6. Paskalis Ardiyanus Tingang
-
-## Sumber Kode
-
-Pengembangan aplikasi ini menggunakan referensi dokumentasi resmi Flutter, Solidity, Web3dart, Reown AppKit, serta bantuan AI ChatGPT (OpenAI) dalam penyusunan, penyesuaian, dan perbaikan kode program.
-
-Referensi:
-- Flutter: https://docs.flutter.dev/
-- Solidity: https://docs.soliditylang.org/
-- Remix IDE: https://remix.ethereum.org/
-- Web3dart: https://pub.dev/packages/web3dart
-- Reown AppKit: https://docs.reown.com/
-- ChatGPT: https://chatgpt.com/
