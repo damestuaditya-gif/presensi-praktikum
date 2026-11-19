@@ -161,18 +161,3 @@ flutter run
 ## Keamanan Data
 
 NIM mahasiswa diproses menggunakan fungsi hash sebelum disimpan ke blockchain. Dengan demikian, NIM asli tidak disimpan secara langsung sebagai data presensi pada smart contract.
-
-## Tujuan
-
-Aplikasi ini dikembangkan sebagai proyek pembelajaran penerapan teknologi blockchain dalam sistem presensi praktikum untuk meningkatkan transparansi dan integritas pencatatan kehadiran.
-
-## Tim Pengembang
-
-Proyek ini dikembangkan secara berkelompok oleh mahasiswa Program Studi Teknologi Rekayasa Komputer.
-
-1. Aditya Damestu
-2. Althaf Sakha Difa Al Falah
-3. Bhintang Agra
-4. Dimas Abi Destian
-5. Muhammad Akbar
-6. Paskalis Ardiyanus Tingang
