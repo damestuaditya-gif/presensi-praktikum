@@ -93,24 +93,12 @@ Data presensi dicatat melalui transaksi blockchain sehingga riwayat transaksi da
 - MetaMask.
 - Koneksi internet.
 
-**Langkah menjalankan:**
-
-1. Clone repository melalui GitHub.
-2. Buka folder proyek menggunakan Visual Studio Code.
-3. Jalankan perintah:
-
-   ```bash
-   flutter pub get
-   ```
-
-4. Pastikan perangkat Android sudah terhubung.
-5. Jalankan aplikasi:
-
-   ```bash
-   flutter run
-   ```
-
-6. Hubungkan wallet MetaMask dengan jaringan Ethereum Sepolia.
+**Cara Menjalankan Aplikasi**
+- Pastikan Flutter SDK dan Android Studio atau VS Code sudah terpasang.
+- Clone repository: git clone https://github.com/damest uaditya-gif/presensi-praktikum.git
+- Masuk ke folder proyek: cd presensi-praktikum
+- Unduh dependensi: flutter pub get
+- Jalankan aplikasi: flutter run
 
 ## 9. Sumber Kode dan Referensi
 
